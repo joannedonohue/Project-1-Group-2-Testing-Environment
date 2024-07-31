@@ -1,0 +1,24 @@
+"2022 U.S. Business Response Survey on Telework, Hiring, and Vacancies, U.S. Bureau of Labor Statistics",,,,,,,,,
+"Table 1: Establishments with all employees teleworking all of the time, by industry*",,,,,,,,,
+Reference: At the time of data collection (Aug-Sep 2022),,,,,,,,,
+Industry,NAICS1,Percentage of establishments ,Percentage of establishments standard error ,Number of establishments ,Number of establishments standard error,Percentage of employment in establishments ,Percentage of employment in establishments standard error,Employment in establishments ,Employment in establishments standard error
+"Total, U.S. private sector 2",00,11.1,0.24,"996,374","21,296",3.3,0.36,"4,082,025","443,034"
+Natural resources and mining,11-21,2.1,0.38,"2,800",508,<1%,**,**,**
+Utilities,22,8.0,1.48,"1,612",300,3.0,3.57,"16,500","19,484"
+Construction,23,2.1,0.18,"16,759","1,508",<1%,**,**,**
+Manufacturing,31-33,5.8,0.41,"20,415","1,443",<1%,**,**,**
+Wholesale trade,42,17.2,1.04,"99,768","5,995",6.0,0.74,"343,053","42,542"
+Retail trade,44-45,2.1,0.32,"21,053","3,285",<1%,**,**,**
+Transportation and warehousing,48-49,4.4,0.74,"12,105","2,006",1.4,2.74,"83,763","165,670"
+Information,51,42.2,1.90,"91,970","4,135",13.7,4.27,"394,843","122,783"
+Financial activities,52-53,11.2,0.87,"106,781","8,326",4.9,1.55,"415,342","131,173"
+Professional and business services,54-56,25.0,0.77,"499,344","15,418",9.1,0.75,"1,959,340","161,978"
+Educational services,61,19.7,1.41,"26,357","1,891",5.7,3.58,"162,051","102,654"
+Health care and social assistance,62,4.4,0.68,"42,724","6,598",1.1,1.39,"208,213","267,635"
+"Arts, entertainment, and recreation",71,7.9,1.04,"12,080","1,596",1.9,1.77,"38,891","35,443"
+Accommodation and food services,72,<1%,**,**,**,<1%,**,**,**
+"Other services, except public administration",81,6.6,0.79,"40,269","4,800",3.1,0.50,"121,949","20,012"
+*Detail may not sum to total due to rounding,,,,,,,,,
+"1North American Industry Classification System, 2017",,,,,,,,,
+"2Total, U.S. private sector includes the 50 states, District of Columbia, Puerto Rico, and U.S. Virgin Islands",,,,,,,,,
+** Estimate not released,,,,,,,,,
